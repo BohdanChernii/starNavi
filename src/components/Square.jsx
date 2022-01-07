@@ -9,7 +9,6 @@ const Square = ({ start, index, mode }) => {
         setItemBc(!itemBc);
       }, 1000);
     }
-    setItemBc('#fff');
   };
   return (
     <div
